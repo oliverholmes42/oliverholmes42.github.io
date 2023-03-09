@@ -194,3 +194,10 @@ input[type=submit]:hover {
   top: 5%;
 }
 
+.music h3 {
+  font-weight:bold;
+  font-family:helvetica;
+  line-height:1.5;
+  margin-top:25px;
+}
+
